@@ -1,0 +1,44 @@
+_repo: The-Daughter-of-an-Empress_2132
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Greene, Nathaniel
+    aliases:
+    - Green, Peter N.
+    - Green, Nathaniel P.
+    - Greene, Peter
+    birthdate: 1797
+    deathdate: 1877
+    gutenberg_agent_id: '831'
+    url: http://www.gutenberg.org/2009/agents/831
+creator:
+  author:
+    agent_name: Mühlbach, L. (Luise)
+    aliases:
+    - Mühlbach, Louise
+    - Mühlbach, Luise
+    - Mundt, Klara Muller
+    - Mundt, Klara Müller
+    - Mundt, Clara
+    - Muhlbach, L. (Luise)
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '830'
+    url: http://www.gutenberg.org/2009/agents/830
+    wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
+description: Translation of Die Tochter einer Kaiserin.
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- History -- Elizabeth, 1741-1762 -- Fiction'
+- !lcsh 'Russia -- History -- Catherine II, 1762-1796 -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: The Daughter of an Empress
+url: http://www.gutenberg.org/ebooks/2132
